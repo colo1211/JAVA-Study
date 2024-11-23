@@ -1,0 +1,24 @@
+package ch01;
+
+// 패키지 : 자바 파일이 모여있는 폴더
+public class VarEx01 {
+
+	public static void main(String[] args) {
+		// 자바 자료형
+		
+		// boolean 1bit 
+		boolean b1 = true; // 박스 = 1
+		boolean b2 = false; // 박스 = 0 
+
+		// char 16bit (홑따옴표)
+		char c1 = '가'; 
+		
+		// int 32bit
+		int n1 = 1000; 
+		
+		// double 64bit
+		double d1 = 1000.1; 
+		
+	}
+
+}
